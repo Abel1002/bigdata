@@ -1,0 +1,43 @@
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\appsettings.json
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Impresión_3d_shop.staticwebassets.runtime.json
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Impresión_3d_shop.exe
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Impresión_3d_shop.deps.json
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Impresión_3d_shop.runtimeconfig.json
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Impresión_3d_shop.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Impresión_3d_shop.pdb
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\bin\Debug\net8.0\MudBlazor.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresión 3d shop.csproj.AssemblyReference.cache
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresión 3d shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresión 3d shop.AssemblyInfoInputs.cache
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresión 3d shop.AssemblyInfo.cs
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresión 3d shop.csproj.CoreCompileInputs.cache
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresión_3d_shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\staticwebassets\msbuild.Impresión_3d_shop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\staticwebassets\msbuild.build.Impresión_3d_shop.props
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Impresión_3d_shop.props
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Impresión_3d_shop.props
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\scopedcss\bundle\Impresión_3d_shop.styles.css
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\scopedcss\projectbundle\Impresión_3d_shop.bundle.scp.css
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresi_.CD3CDDC4.Up2Date
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresión_3d_shop.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\refint\Impresión_3d_shop.dll
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresión_3d_shop.pdb
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\Impresión 3d shop.genruntimeconfig.cache
+C:\Users\abels\source\repos\Impresión 3d shop\Impresión 3d shop\obj\Debug\net8.0\ref\Impresión_3d_shop.dll

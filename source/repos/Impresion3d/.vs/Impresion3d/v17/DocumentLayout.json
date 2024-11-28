@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abels\\source\\repos\\Impresion3d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}|Impresion3d\\Impresion3d.csproj|c:\\users\\abels\\source\\repos\\impresion3d\\impresion3d\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}|Impresion3d\\Impresion3d.csproj|solutionrelative:impresion3d\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}|Impresion3d\\Impresion3d.csproj|c:\\users\\abels\\source\\repos\\impresion3d\\impresion3d\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}|Impresion3d\\Impresion3d.csproj|solutionrelative:impresion3d\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}|Impresion3d\\Impresion3d.csproj|c:\\users\\abels\\source\\repos\\impresion3d\\impresion3d\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}|Impresion3d\\Impresion3d.csproj|solutionrelative:impresion3d\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\Components\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Impresion3d\\Components\\Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\Components\\Pages\\Register.razor",
+              "RelativeToolTip": "Impresion3d\\Components\\Pages\\Register.razor",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwCIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:25:01.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Impresion3d\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "Impresion3d\\Components\\Pages\\Login.razor",
+              "ViewState": "AQIAABMAAAAAAAAAAAAIwCIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:24:13.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Impresion3d\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Impresion3d\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T16:23:21.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

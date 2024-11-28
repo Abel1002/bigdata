@@ -1,0 +1,42 @@
+﻿@page "/login"
+@using System.ComponentModel.DataAnnotations
+
+<EditForm Model="@loginModel" OnValidSubmit="HandleLogin">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label for="email">Correo Electrónico:</label>
+        <InputText id="email" @bind-Value="loginModel.Email" />
+    </div>
+
+    <div>
+        <label for="password">Contraseña:</label>
+        <InputText id="password" type="password" @bind-Value="loginModel.Password" />
+    </div>
+
+    <button type="submit">Iniciar Sesión</button>
+</EditForm>
+
+<p>
+    ¿No tienes cuenta? <NavLink href="/register">Regístrate aquí</NavLink>
+</p>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+
+    private void HandleLogin()
+    {
+        // Lógica de inicio de sesión
+    }
+
+    public class LoginModel
+    {
+        [Required]
+        [EmailAddress]
+        public string Email { get; set; }
+
+        [Required]
+        public string Password { get; set; }
+    }
+}

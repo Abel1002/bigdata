@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Impresion3d", "Impresion3d\Impresion3d.csproj", "{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BAA7F7-1BE5-40E7-BCB9-73C3423FE42B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1A49F8D-3C80-4BB5-B117-D383208C59CF}
+	EndGlobalSection
+EndGlobal

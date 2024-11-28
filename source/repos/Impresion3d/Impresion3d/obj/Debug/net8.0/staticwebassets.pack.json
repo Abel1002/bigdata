@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Impresion3d.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Impresion3d.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresion3d\\Impresion3d\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Impresion3d.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Impresion3d.props",
+      "PackagePath": "build\\Impresion3d.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Impresion3d.props",
+      "PackagePath": "buildMultiTargeting\\Impresion3d.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Impresion3d.props",
+      "PackagePath": "buildTransitive\\Impresion3d.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresión 3d shop\\Impresión 3d shop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Impresión_3d_shop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Impresión_3d_shop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresión 3d shop\\Impresión 3d shop\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresión 3d shop\\Impresión 3d shop\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresión 3d shop\\Impresión 3d shop\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\abels\\source\\repos\\Impresión 3d shop\\Impresión 3d shop\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Impresión_3d_shop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Impresión_3d_shop.props",
+      "PackagePath": "build\\Impresión_3d_shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Impresión_3d_shop.props",
+      "PackagePath": "buildMultiTargeting\\Impresión_3d_shop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Impresión_3d_shop.props",
+      "PackagePath": "buildTransitive\\Impresión_3d_shop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

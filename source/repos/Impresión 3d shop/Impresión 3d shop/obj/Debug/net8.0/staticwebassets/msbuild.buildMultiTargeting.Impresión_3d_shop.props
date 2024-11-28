@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Impresión_3d_shop.props" />
+</Project>

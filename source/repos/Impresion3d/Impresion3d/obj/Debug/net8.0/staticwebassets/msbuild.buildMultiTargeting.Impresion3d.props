@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Impresion3d.props" />
+</Project>

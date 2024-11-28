@@ -1,0 +1,51 @@
+﻿@page "/register"
+@using System.ComponentModel.DataAnnotations
+
+<EditForm Model="@registerModel" OnValidSubmit="HandleRegister">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div>
+        <label for="email">Correo Electrónico:</label>
+        <InputText id="email" @bind-Value="registerModel.Email" />
+    </div>
+
+    <div>
+        <label for="password">Contraseña:</label>
+        <InputText id="password" type="password" @bind-Value="registerModel.Password" />
+    </div>
+
+    <div>
+        <label for="confirmPassword">Confirmar Contraseña:</label>
+        <InputText id="confirmPassword" type="password" @bind-Value="registerModel.ConfirmPassword" />
+    </div>
+
+    <button type="submit">Registrarse</button>
+</EditForm>
+
+<p>
+    ¿Ya tienes cuenta? <NavLink href="/login">Inicia sesión aquí</NavLink>
+</p>
+
+@code {
+    private RegisterModel registerModel = new RegisterModel();
+
+    private void HandleRegister()
+    {
+        // Lógica de registro
+    }
+
+    public class RegisterModel
+    {
+        [Required]
+        [EmailAddress]
+        public string Email { get; set; }
+
+        [Required]
+        public string Password { get; set; }
+
+        [Required]
+        [Compare("Password", ErrorMessage = "Las contraseñas no coinciden")]
+        public string ConfirmPassword { get; set; }
+    }
+}
